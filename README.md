@@ -25,4 +25,4 @@ To view the above API documentaion kindly run the project in your preferred IDE,
 3. Run the project, tomcat will start on port 8080.
 4. Run the APIs using Postman or Talend API Tester (API documenation http://localhost:8080/swagger-ui/index.html#/)
 
-##### Tech stack used : Java and Spring Boot
+##### Tech stack used : Java 17 and Spring Boot (version 3.1.5)
