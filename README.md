@@ -7,7 +7,7 @@
 ## API Documentation
 Base URL : http://localhost:8080/petstore.swagger.io/v2
 ##### 1. Add Pet : To create new pet details.
-##### 2. Update Pet : To update pet details bu ID.
+##### 2. Update Pet : To update pet details by ID.
 ##### 3. Get Pet : To fetch pet details by ID.
 ##### 4. Delete Pet : To delete existing pet details.
 ##### 5. Gel All Pet : To fetch all pet details.
