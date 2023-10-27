@@ -25,6 +25,6 @@ This tells you that the server is up and ready to demonstrate Swagger.
 1. Download the project as a zip file or clone the project.
 2. Extract the project folder and import it on the IDE.
 3. Run the project, tomcat will start on port 8080.
-4. Run the APIs using Postman or Talend API Tester (API documenation http://localhost:8080/swagger-ui/index.html#/)
+4. Run the APIs using Postman or Talend API Tester (API documentation http://localhost:8080/swagger-ui/index.html#/)
 
 ##### Tech stack used : Java 17 and Spring Boot (version 3.1.5)
