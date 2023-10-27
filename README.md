@@ -17,7 +17,8 @@ Base URL : http://localhost:8080/petstore.swagger.io/v2
 ##### 9. Delete User : To delete existing user by ID.
 ##### 10. Get All User : To fetch all user details.
 
-To view the above API documentaion kindly run the project in your preferred IDE, navigate to swagger/open API documenation http://localhost:8080/swagger-ui/index.html#/
+To view the above API documentaion kindly run the project in your preferred IDE, navigate to swagger/open API documentation http://localhost:8080/swagger-ui/index.html#/
+
 This tells you that the server is up and ready to demonstrate Swagger.
 
 ## To Run
